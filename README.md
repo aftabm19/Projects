@@ -14,7 +14,7 @@ This project is a complete Natural Language Processing (NLP) pipeline that perfo
 
 ## 🗃️ Files Included :
 
-- `aftab_P556.py` – Python script containing the ML pipeline
+- `aftab_P556(2).py` – Python script containing the ML pipeline
 - `app_P556.py` – Streamlit app file for deployment
 - `P556.xlsx` – Dataset used for training/testing
 - `README.md` – Project overview and instructions
